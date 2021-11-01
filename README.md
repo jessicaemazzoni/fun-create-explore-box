@@ -20,5 +20,5 @@ Portfolio
 Government Debt
 <div class="flourish-embed flourish-chart" data-src="visualisation/7690473"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-Global GDP
-<div class="flourish-embed flourish-scatter" data-src="visualisation/7690829"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-heatmap" data-src="visualisation/7690894"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
