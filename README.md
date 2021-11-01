@@ -11,14 +11,13 @@ I hope to learn how to make websites much more beautiful than this one!
 
 Portfolio
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/7639980"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+[Flourish Class Design](https://public.flourish.studio/resources/embed.js)
 
 
-<iframe src="https://data.oecd.org/chart/6vsI" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6vsI" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
+[Government Debt Bar Chart](https://data.oecd.org/chart/6vsI)
 
 
-Government Debt
-<div class="flourish-embed flourish-chart" data-src="visualisation/7690473"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+[Government Debt Grid Line Chart](https://public.flourish.studio/resources/embed.js)
 
-<div class="flourish-embed flourish-heatmap" data-src="visualisation/7690894"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+[Jessi's Government Debt Chart](https://public.flourish.studio/resources/embed.js)
 
