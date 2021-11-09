@@ -17,9 +17,9 @@ Portfolio
 [Government Debt Bar Chart](https://data.oecd.org/chart/6vsI)
 
 
-[Government Debt Grid Line Chart](https://public.flourish.studio/resources/embed.js)
+[Government Debt Grid Line Chart](https://public.flourish.studio/visualisation/7690473/)
 
-[Jessi's Government Debt Chart](https://public.flourish.studio/resources/embed.js)
+[Jessi's Government Debt Chart](https://public.flourish.studio/visualisation/7690894/)
 
 
 
