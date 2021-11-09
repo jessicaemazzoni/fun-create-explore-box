@@ -27,7 +27,7 @@ Portfolio
 Assignment 3/4
 Original Chart:
 
-![Original Chart](original chart.png)
+![Original Chart](/original chart.png)
 
 Describe your overall observations about the data visualization here. What stood out to you? What did you find worked really well? What didn't? What, if anything, would you do differently? *
 While I believe this visualization contains truthful, complete data, it is not easy to look at because it is very monotonous, and I am left unsure if there is a specific message or understanding that the viewer is supposed to take away. 
