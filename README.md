@@ -27,6 +27,8 @@ Portfolio
 Assignment 3/4
 Original Chart:
 
+/[originaldrawing]
+
 Describe your overall observations about the data visualization here. What stood out to you? What did you find worked really well? What didn't? What, if anything, would you do differently? *
 While I believe this visualization contains truthful, complete data, it is not easy to look at because it is very monotonous, and I am left unsure if there is a specific message or understanding that the viewer is supposed to take away. 
 My immediate thought looking at this chart is that it is very boring and not at all engaging, except viewing the large spike in Q2-2016, which made me wonder what happened at that point in time to cause more malware to be installed. The totals for each quarter that are all overlaid are difficult to read and make viewing the chart less enjoyable. Simply removing those numbers would improve the chart. The creator of this chart did a good job of scaling the chart on the y axis. The viewer is able to see a complete range of available data and easily view the changes in malware installations quarter to quarter. The x axis labels are also simple to read and understand, and the color of the bars (while monotonous) are at least not an overwhelming array of colors. 
