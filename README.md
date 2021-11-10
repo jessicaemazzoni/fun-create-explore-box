@@ -1,5 +1,5 @@
 # fun-create-explore-box
-https://jessicaemazzoni.github.io/fun-create-explore-box/
+https://github.com/jessicaemazzoni/fun-create-explore-box
 
 About Me
 
