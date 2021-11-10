@@ -27,7 +27,7 @@ Portfolio
 Assignment 3/4
 Original Chart:
 
-![Original Chart](/original chart.png)
+![Original Chart](firstchart.png)
 
 Describe your overall observations about the data visualization here. What stood out to you? What did you find worked really well? What didn't? What, if anything, would you do differently? *
 While I believe this visualization contains truthful, complete data, it is not easy to look at because it is very monotonous, and I am left unsure if there is a specific message or understanding that the viewer is supposed to take away. 
@@ -40,7 +40,8 @@ Given that this chart is posted on Statistica, I believe it’s target audience 
 
 
 
-Re-drawing the chart, #1
+Redrawing the Chart, #1
+![Redrawing the Chart #1](secondchart.jpg)
  
 Since it was so hard to tell if there was any trend among the data in the original chart, I thought it would be interesting to sketch a version of the chart in which data were displayed quarterly. If there were peaks around certain times of the year, it would be easier to see in this format (this drawing wasn’t done with the actual data, just wanted to represent the concept). I also wanted to include color and make the drawing more simple, which I felt like was accomplished with this drawing.
 - Can you tell me what you think this is?
@@ -62,6 +63,7 @@ Since it was so hard to tell if there was any trend among the data in the origin
 
 
 Redrawing the chart, #2
+![Redrawing the chart #2](thirdchart.jpg)
  
 I felt that the original chart was very good in how complete and accurate it was. The display was a little cluttered though, and it wasn’t exactly easy to see how the most recent data compared to earlier data. By highlighting the most recent data and drawing a line across to display which quarters fell above and below the most recent, I thought this might be a simpler way to compare the data points. I also thought that flipping the x and y axis might make the viewing simpler. 
 - Can you tell me what you think this is?
@@ -83,6 +85,7 @@ I felt that the original chart was very good in how complete and accurate it was
 
 
 Redrawing the chart- Final version
+![Final Chart](fourthchart.png)
  
 I know that my final version is quite different from both of my sketches, but I actually think this chart is quite similar to Drawing #1. In both the original chart and Drawing #2 , it was very hard to discern any pattern in the data (if there were any pattern), since all of the data points were lined up all together. It was hard to even look at those charts because of all the monotonous lines. So, based on the feedback I received, I went ahead and kept the same general format as Drawing #1, by having quarters on the x axis, and number of downloads on the y axis, then representing each year as an individual data set. 
 Since I heard that Drawing #1 was hard to discern given the huge color blocks, I thought it might be simpler to display the data per year as lines. I also colored 2016-2020 all in the same palate of light blue/greens and purple, then highlighted the most recent data from 2021 in a bold pink color. Since the audience is most likely people who are interested in, researching, or making money in the tech field, the most recent data should be the most prominent, given that technology changes so quickly (data from even 1-2 years ago could be obsolete). I also updated the title to be a simpler and tell the reader that they’d be viewing quarterly data, so that the reader knows how to view the chart.
