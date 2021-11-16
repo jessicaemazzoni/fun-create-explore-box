@@ -21,6 +21,8 @@ Portfolio
 
 [Jessi's Government Debt Chart](https://public.flourish.studio/visualisation/7690894/)
 
+[Final Part 1](/finalproject)
+
 
 
 
@@ -90,4 +92,4 @@ Redrawing the chart- Final version
 I know that my final version is quite different from both of my sketches, but I actually think this chart is quite similar to Drawing #1. In both the original chart and Drawing #2 , it was very hard to discern any pattern in the data (if there were any pattern), since all of the data points were lined up all together. It was hard to even look at those charts because of all the monotonous lines. So, based on the feedback I received, I went ahead and kept the same general format as Drawing #1, by having quarters on the x axis, and number of downloads on the y axis, then representing each year as an individual data set. 
 Since I heard that Drawing #1 was hard to discern given the huge color blocks, I thought it might be simpler to display the data per year as lines. I also colored 2016-2020 all in the same palate of light blue/greens and purple, then highlighted the most recent data from 2021 in a bold pink color. Since the audience is most likely people who are interested in, researching, or making money in the tech field, the most recent data should be the most prominent, given that technology changes so quickly (data from even 1-2 years ago could be obsolete). I also updated the title to be a simpler and tell the reader that they’d be viewing quarterly data, so that the reader knows how to view the chart.
 
-Overall, I am happy with this final chart. Although there aren’t any major trends in the chart, it’s still easier for the reader to see any potential patterns, compared to the original Statistica chart. I think this chart is easier to read and view, but still remains complete and a
+Overall, I am happy with this final chart. Although there aren’t any major trends in the chart, it’s still easier for the reader to see any potential patterns, compared to the original Statistica chart. I think this chart is easier to read and view, but still remains complete.
