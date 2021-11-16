@@ -21,7 +21,7 @@ Portfolio
 
 [Jessi's Government Debt Chart](https://public.flourish.studio/visualisation/7690894/)
 
-[Final Part 1](/finalprojectpart1.md)
+[Final Part 1](finalprojectpart1)
 
 
 
