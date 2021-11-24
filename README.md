@@ -23,6 +23,9 @@ Portfolio
 
 [Final Part 1](/FinalProjectPart1.md)
 
+[Final Part 2](/FinalProjectPart2.md)
+
+
 
 
 
