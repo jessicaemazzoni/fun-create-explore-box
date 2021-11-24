@@ -1,12 +1,21 @@
  ![slide1](slide1.png)
+ 
  ![slide2](slide1.2.png)
+ 
  ![slide3](slide1.3.png)
+ 
  ![slide4](slide1.4.png)
+ 
  ![slide5](slide1.5.png)
+ 
  ![slide6](slide1.6.png)
+ 
  ![slide7](slide1.7.png)
+ 
  ![slide8](slide1.8.png)
+ 
  ![slide9](slide1.9.png)
+ 
  ![slide10](slide1.10.png)
 
 
