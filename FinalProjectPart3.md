@@ -6,6 +6,5 @@ Type stuff here
 
 
 
+[Final Project: Your Audio Is At Risk](https://carnegiemellon.shorthandstories.com/your-audio-is-at-risk/embed.js)
 
-
-link <script src="https://carnegiemellon.shorthandstories.com/your-audio-is-at-risk/embed.js"></script>
